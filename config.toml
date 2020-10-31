@@ -1,4 +1,5 @@
 baseURL = "https://pulcinello.netlify.app/"
 languageCode = "en-us"
 title = "FLASHBACK"
+pygmentsStyle = "github"
 theme = "er"
